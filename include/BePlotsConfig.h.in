@@ -1,0 +1,2 @@
+#define beplots_VERSION_MAJOR @beplots_VERSION_MAJOR@
+#define beplots_VERSION_MINOR @beplots_VERSION_MINOR@
